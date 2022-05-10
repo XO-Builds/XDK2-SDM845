@@ -1,9 +1,12 @@
 
 ![image](https://user-images.githubusercontent.com/12796123/167517592-0c95839b-5e5f-4d5a-8fbc-16c6b9f6070c.png)
 
+
+
 ### FEATURES AND CHANGELOG:
 
 
+ - For beryllium, dipper, polaris
  - Support for Android 9 - 12
  - Separate zImage files for using as prebuilt in other ROMs
  - FullLTO and -O3 Optimizations
